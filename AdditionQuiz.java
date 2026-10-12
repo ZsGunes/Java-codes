@@ -12,7 +12,7 @@ public class AdditionQuiz {  // compiler random 3 sayı üretecek ve kullanıcı
 	 int answer= input.nextInt();
 	 input.close();
 	 System.out.println(digit1+ "+"+digit2+"+"+digit3+"= "+answer+" is "+ (digit1+digit2+digit3==answer));
-	                                                                          //true or false döndürür.
+	                                                                    //true or false döndürür.
  }
  
 }
